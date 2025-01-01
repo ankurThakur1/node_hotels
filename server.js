@@ -51,7 +51,3 @@ app.listen(PORT, () => {
     console.log(`Server is running, Port: ${PORT}`);
 });
 
-// 1:59 / 38:18 14
-
-// as a freelance web designer or developer, weather i have to say customer that can i build your website on plain html css and javascirpt or on react or next or angular
-// how to explain JWT concept to interviewer
